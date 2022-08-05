@@ -1,0 +1,54 @@
+{
+  "whos_vehicle": [
+    {
+      "code_no": 1,
+      "code_value": "本人的"
+    },
+    {
+      "code_no": 2,
+      "code_value": "非本人的"
+    }
+  ],
+  "vehicle_category": [
+    {
+      "code_no": 1,
+      "code_value": "汽車"
+    },
+    {
+      "code_no": 2,
+      "code_value": "機車"
+    },
+    {
+      "code_no": 3,
+      "code_value": "大型重機"
+    }
+  ],
+  "approval_status": [
+    {
+      "code_no": 1,
+      "code_value": "暫存"
+    },
+    {
+      "code_no": 2,
+      "code_value": "退件"
+    },
+    {
+      "code_no": 3,
+      "code_value": "審核中"
+    },
+    {
+      "code_no": 4,
+      "code_value": "審核完成"
+    }
+  ],
+  "upload_status": [
+    {
+      "code_no": 0,
+      "code_value": "已上傳"
+    },
+    {
+      "code_no": 1,
+      "code_value": "未上傳"
+    }
+  ]
+}
